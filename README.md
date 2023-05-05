@@ -1,6 +1,4 @@
-<br/>
 <div id="header" align="center">
-
   <img alt="gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWUwM2ZhNTlkYTYyNTBjM2JlYWNiMmFkNWZkYmUyZjhhZDRlODE4OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif" width="100" style="border-radius: 20%"/>
 </div>
 <div id="badges" align="center">
@@ -17,13 +15,26 @@
     </a>
 </div>
 
-## Hi there 👋 I'm a Python developer
+## Hi there 👋
+
+### <img src="https://cdn-icons-png.flaticon.com/512/5044/5044500.png" width=30> About Me:
+
+I'm Kirill, a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Russia.
+
+- 🔭 Now I am studying
+  at <a href="https://practicum.yandex.ru/profile/backend-developer/">Yandex Practicum</a> on Python developer, one step away from my diploma.
+- 🌱 Learning and practicing the main frameworks of Python. Started my way with Django and now learning FastApi and SQLAlchemy.
+- ⚡ In my free time I solve Katas on CodeWars, read something about Tech, play the
+  guitar <img src="https://cdn-icons-png.flaticon.com/512/2816/2816775.png" width="15"> and love to
+  cook <img src="https://cdn-icons-png.flaticon.com/512/1027/1027179.png" width=15>.
+- 😉 Welcome to see my latest projects just below this page.
+---
 
 ## Technology stack
 
 <div id="techs" align="center">
   <div id="gif" align="right">
-    <img align="right" style="border-radius: 5%" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY5Njk3YzZjZjBhZjRjMGRhMmU5MTNmMWM1OTRlZWIzZTEwZmE1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" alt="Badge"/>
+    <img align="right" style="border-radius: 5%" width="500" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY5Njk3YzZjZjBhZjRjMGRhMmU5MTNmMWM1OTRlZWIzZTEwZmE1OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" alt="Badge"/>
   </div>
   <div id="" align="left">
     <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="python"/>
@@ -48,46 +59,10 @@
   </div>
 </div>
 
-
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![kirill-nasonkin github stats](https://github-readme-stats.vercel.app/api?username=kirill-nasonkin&show_icons=true&theme=monokai&include_all_commits=true&count_private=true)
 
+## 😂 Here is a random joke that'll make you smile!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**kirill-nasonkin/kirill-nasonkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jokes Card](https://readme-jokes.vercel.app/api)
