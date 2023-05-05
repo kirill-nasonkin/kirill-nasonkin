@@ -44,10 +44,10 @@ I'm Kirill, a Python Developer <img src="https://media.giphy.com/media/WUlplcMpO
     <img src="https://img.shields.io/badge/PostgresQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresQL"/> <br>
     <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
     <img src="https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
-    <img src="https://img.shields.io/badge/gunicorn-white?style=for-the-badge&logo=gunicorn&logoColor=green" alt="gunicorn"/><br>
+    <img src="https://img.shields.io/badge/gunicorn-grey?style=for-the-badge&logo=gunicorn&logoColor=green" alt="gunicorn"/><br>
     <img src="https://img.shields.io/badge/unittest-green?style=for-the-badge&logo=testcafe&logoColor=white" alt="unittest"/>
-    <img src="https://img.shields.io/badge/beautiful soup-green?style=for-the-badge&logo=&logoColor=white" alt="beautiful"/>
-    <img src="https://img.shields.io/badge/requests-green?style=for-the-badge&logo=&logoColor=white" alt="requests"/><br>
+    <img src="https://img.shields.io/badge/beautiful soup-grey?style=for-the-badge&logo=&logoColor=white" alt="beautiful"/>
+    <img src="https://img.shields.io/badge/requests-black?style=for-the-badge&logo=&logoColor=white" alt="requests"/><br>
     <img src="https://img.shields.io/badge/loguru-brown?style=for-the-badge&logo=loguru&logoColor=yellow" alt="loguru"/><br>
     <br>
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white" alt="pycharm"/>
