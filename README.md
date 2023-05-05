@@ -27,7 +27,7 @@ I'm Kirill, a Python Developer <img src="https://media.giphy.com/media/WUlplcMpO
 - ⚡ In my free time I solve Katas on CodeWars, read something about Tech, play the
   guitar <img src="https://cdn-icons-png.flaticon.com/512/2816/2816775.png" width="15"> and love to
   cook <img src="https://cdn-icons-png.flaticon.com/512/1027/1027179.png" width=15>.
-- 😉 Welcome to see my latest projects just below this page.
+- 😉 Welcome to see my recent projects just below this page.
 ---
 
 ## Technology stack
