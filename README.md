@@ -8,9 +8,6 @@
   <a href="mailto:kirill.nasonkin@yandex.ru">
     <img src="https://img.shields.io/badge/email-yellow?style=for-the-badge&logo=mail.ru&logoColor=red" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/nasonkin_k">
-    <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://leetcode.com/kirill-nasonkin/">
     </a>
 </div>
