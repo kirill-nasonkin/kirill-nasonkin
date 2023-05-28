@@ -45,7 +45,6 @@ I'm Kirill, a Python Developer <img src="https://media.giphy.com/media/WUlplcMpO
     <img src="https://img.shields.io/badge/unittest-green?style=for-the-badge&logo=testcafe&logoColor=white" alt="unittest"/>
     <img src="https://img.shields.io/badge/beautiful soup-grey?style=for-the-badge&logo=&logoColor=white" alt="beautiful"/>
     <img src="https://img.shields.io/badge/requests-black?style=for-the-badge&logo=&logoColor=white" alt="requests"/><br>
-    <img src="https://img.shields.io/badge/loguru-brown?style=for-the-badge&logo=loguru&logoColor=yellow" alt="loguru"/><br>
     <br>
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white" alt="pycharm"/>
     <img src="https://img.shields.io/badge/postman-yellow?style=for-the-badge&logo=postman&logoColor=orange" alt="postman"/><br>
