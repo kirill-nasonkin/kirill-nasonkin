@@ -18,8 +18,8 @@
 
 I'm Kirill, a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Russia.
 
-- 🔭 Now I am studying
-  at <a href="https://practicum.yandex.ru/profile/backend-developer/">Yandex Practicum</a> on Python developer, one step away from my diploma.
+- 🔭 For now I gracefully finished my studying
+  at <a href="https://practicum.yandex.ru/profile/backend-developer/">Yandex Practicum</a> on Python developer.
 - 🌱 Learning and practicing the main frameworks of Python. Started my way with Django and now learning FastApi and SQLAlchemy.
 - ⚡ In my free time I solve Katas on CodeWars, read something about Tech, play the
   guitar <img src="https://cdn-icons-png.flaticon.com/512/2816/2816775.png" width="15"> and love to
